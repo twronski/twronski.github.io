@@ -1,7 +1,7 @@
 ---
 title: Writing a New Post
 author: Cotes Chung
-date: 2019-08-08 14:10:00 +0800
+date: 2020-12-27 19:10:00 -0300
 categories: [Blogging, Tutorial]
 tags: [writing]
 ---
@@ -60,7 +60,7 @@ comments: false
 
 ## Mathematics
 
-For website performance reasons, the mathematical feature won't be loaded by default. But it can be enabled by:
+For website performance reasons, the mathematical feature won't be loaded by default. But it can be enabled by:Date f
 
 ```yaml
 ---
