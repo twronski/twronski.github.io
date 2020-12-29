@@ -1,7 +1,7 @@
 ---
 title: Writing a New Post
 author: Thiago F. Wronski 
-date: 2020-12-27 19:10:00 -0300
+date: 14-01-2020 19:10:00 -0300
 categories: [Blogging, Tutorial]
 tags: [writing]
 ---
