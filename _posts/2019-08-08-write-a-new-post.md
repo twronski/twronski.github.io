@@ -1,6 +1,6 @@
 ---
 title: Writing a New Post
-author: Cotes Chung
+author: Thiago F. Wronski 
 date: 2020-12-27 19:10:00 -0300
 categories: [Blogging, Tutorial]
 tags: [writing]
